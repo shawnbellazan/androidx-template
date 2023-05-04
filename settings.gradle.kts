@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "androidx"
 include(":app")
+
+includeBuild("build-logic")
